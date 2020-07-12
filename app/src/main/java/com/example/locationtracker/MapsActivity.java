@@ -77,7 +77,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
                     mMap.moveCamera(CameraUpdateFactory.newLatLng(latLng));
 
-                    String phoneNumber = "9582044527";
+                    String phoneNumber = "XXXXXXXXXX";
                     String myLatitude = String.valueOf(location.getAltitude());
                     String myLongitude = String.valueOf(location.getLongitude());
 
